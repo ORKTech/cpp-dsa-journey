@@ -5,11 +5,17 @@ Goal: Become a problem-solving beast by mastering **C++** and **Data Structures 
 
 ---
 
-## 📅 Plan Overview
-- **Week 1:** C++ Fundamentals
-- **Week 2:** OOP in C++
-- **Week 3:** STL Mastery
-- **Weeks 4–8:** DSA (Arrays → Graphs → DP)
+## 🚀 C++ DSA Progress
+
+- [x] Basics  
+- [ ] Arrays  
+- [ ] Strings  
+- [ ] Linked List  
+- [ ] Stacks  
+- [ ] Queues  
+- [ ] Trees  
+- [ ] Graphs  
+- [ ] Dynamic Programming
 
 ---
 
